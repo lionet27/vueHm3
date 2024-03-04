@@ -9,7 +9,7 @@
 import BlogDetailPage from './pages/BlogDetailPage.vue'
 
 export default {
-  // name: 'App',
+  
   components: {
     BlogDetailPage
   }
